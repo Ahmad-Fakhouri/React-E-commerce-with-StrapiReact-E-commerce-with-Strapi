@@ -20,11 +20,11 @@ import "./slider.css";
 const mySlider = [
   {
     text: "Third Party",
-    link: "src/components/Pictures/banner-auto-insurance.jpg",
+    link: "./Pictures/banner-auto-insurance.jpg",
   },
   {
     text: "Comprehensive",
-    link: "src/components/Pictures/dd0048d9-6412-4ee3-a3f1-641501f418bc_which-is-a-good-car-insurance-company-in-india.png",
+    link: "./Pictures/dd0048d9-6412-4ee3-a3f1-641501f418bc_which-is-a-good-car-insurance-company-in-india.png",
   },
 ];
 
@@ -134,7 +134,7 @@ const Hero = () => {
           <Box sx={{ position: "relative" }}>
             <img
               width={"100%"}
-              src="src\components\Pictures\360_F_521666727_j95fhHMcJ1qOZUFzFIwWZNHBzGqgNIEb.jpg"
+              src="./Pictures/360_F_521666727_j95fhHMcJ1qOZUFzFIwWZNHBzGqgNIEb.jpg"
               alt=""
             />
 
@@ -198,7 +198,7 @@ const Hero = () => {
           <Box sx={{ position: "relative" }}>
             <img
               width={"100%"}
-              src="src\components\Pictures\360_F_232626269_u8g8QC6ExEjYCq8uXzh5ew2oq70UQvgA.jpg"
+              src="./Pictures/360_F_232626269_u8g8QC6ExEjYCq8uXzh5ew2oq70UQvgA.jpg"
               alt=""
             />
             <Stack
